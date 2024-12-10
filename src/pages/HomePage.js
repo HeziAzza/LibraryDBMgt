@@ -11,7 +11,7 @@ function HomePage() {
           <a href='  https://github.com/HeziAzza/LibraryDBMgt' target='_blank' rel="noreferrer">Github</a>
         </p>
         <p>
-          <a href='Temitope_Oyemade_Project_Whitepaper.pdf' download={true} rel="noreferrer">Project Report</a>
+          <a href='Adedeji_Oludayo_Final Project White Paper.pdf' download={true} rel="noreferrer">Project Report</a>
         </p>
         <p>
           <a href='#/book-data' target='_blank' rel="noreferrer">View book data</a>
